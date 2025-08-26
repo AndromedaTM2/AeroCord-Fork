@@ -19,6 +19,9 @@ A very clean looking, messily coded Discord Theme.
 
 ## ⚠️ Turn on hardware acceleration if you experience any performance issues.
 
+
+## (There's an ongoing issue where the background image on the .stack_dbd263 element isn't aligning up with the rest of the elements, it's a WIP and I'll try to get to it as soon as I can.)
+
 ## Screenshots
 ![Image 1](https://arjun.needs-to-s.top/2t2WPLP.gif)
 
