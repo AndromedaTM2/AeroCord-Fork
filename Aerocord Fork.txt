@@ -484,11 +484,8 @@
 }
 
 .container__133bf {
-  background-attachment: fixed; 
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: transparent !important;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background: none;
+  background-image: none !important;
 }
 
 .container__9293f {
