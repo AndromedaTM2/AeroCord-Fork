@@ -497,6 +497,7 @@
 }
 
 .subtitleContainer_f75fb0 > * {
- background: none;
- background-image: none !important;
+  background: none;
+  background-image: none !important;
 }
+
