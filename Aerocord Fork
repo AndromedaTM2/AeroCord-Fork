@@ -1,5 +1,5 @@
 :root {
-  --background-image: url("https://arjun.needs-to-s.top/5RVeMbj.png");
+  --background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png");
   --interactive-normal: white;
   --channel-text-area-placeholder: rgba(255, 255, 255, 0.546) !important;
   --text-muted: rgba(188, 238, 255, 0.622) !important;
@@ -17,7 +17,7 @@
 
 .container_c48ade {
   background-size: 100% 100%;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
   background-attachment: fixed; 
   background-repeat: no-repeat;
   background-color: transparent !important;
@@ -244,7 +244,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-color: transparent !important;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
   left: 0;             
   height: 100px;      
   width: 490px;                                  
@@ -262,7 +262,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-color: transparent !important;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
   right: 0;               
   height: 100vh;         
   width: 1036px;          
@@ -280,7 +280,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-color: transparent !important;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
 }
 
 .contentRegionScroller__23e6b 
@@ -291,7 +291,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-color: transparent !important;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
 }
 
 .toolbar_8227b0 {
@@ -308,7 +308,7 @@
   background-attachment: fixed; 
   background-repeat: no-repeat;
   background-size: cover; 
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;  
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;  
 } 
 
 .container__7d20c,
@@ -342,7 +342,7 @@
   background-attachment: fixed; 
   background-repeat: no-repeat;
   background-size: cover; 
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important; 
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important; 
 }
 
 .header__551b0,
@@ -353,7 +353,7 @@
   background-attachment: fixed; 
   background-repeat: no-repeat;
   background-size: cover; 
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important; 
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important; 
 }
 
 .sidebarRegionScroller__23e6b {
@@ -361,7 +361,7 @@
   background-attachment: fixed; 
   background-repeat: no-repeat;
   background-size: cover; 
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important; 
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important; 
 }
 
 .circleIconButton__5bc7e,
@@ -484,8 +484,11 @@
 }
 
 .container__133bf {
-  background: none;
-  background-image: none !important;
+  background-attachment: fixed; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
 }
 
 .container__9293f {
@@ -493,11 +496,10 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-color: transparent !important;
-  background-image: url("https://arjun.needs-to-s.top/6s1hqaA.png") !important;
+  background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
 }
 
 .subtitleContainer_f75fb0 > * {
-  background: none;
-  background-image: none !important;
+ background: none;
+ background-image: none !important;
 }
-
