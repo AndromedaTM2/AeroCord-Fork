@@ -16,7 +16,7 @@
 }
 
 .container_c48ade {
-  background-size: 100% 100%;
+  background-size: cover;
   background-image: url("https://raw.githubusercontent.com/AndromedaTM2/test/refs/heads/main/Left.png") !important;
   background-attachment: fixed; 
   background-repeat: no-repeat;
